@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680917827613",
+    "project_id": "pulverisers",
+    "storage_bucket": "pulverisers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680917827613:android:d19051ca0f24467c7ec6f4",
+        "android_client_info": {
+          "package_name": "com.example.nirikshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680917827613-djc818ea64i5bessdeudnp9n5uvkl4is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2B4D4PsJahxk4_88Jc4FLpezHE6Gt8n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680917827613-djc818ea64i5bessdeudnp9n5uvkl4is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
